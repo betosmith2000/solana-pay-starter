@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 1,
+    "name": "Cryto Emoji pack",
+    "price": "99.99",
+    "description": "Get this crypto emoji pack for only $99.99!",
+    "image_url": "https://dthezntil550i.cloudfront.net/cd/latest/cd2112191542439430009611516/1280_960/aafaa623-dae6-401b-8139-ae0f2f4f8b75.png",
+    "filename": "emobtc.png",
+    "hash": "Qmc3fAx6j7BuBkrwGoWxCiSAEyNSBjyuRXPKQ7ksmLG2oi"
+  },
+  {
+    "id": 2,
+    "name": "NewIcons",
+    "price": "85",
+    "image_url": "https://cdn.icon-icons.com/image-packs/filesandfoldersflat_iconset_5256.png",
+    "description": "Great!!!",
+    "filename": "emojis (4).zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  }
+]
